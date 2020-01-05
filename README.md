@@ -20,4 +20,5 @@ Required Information Criteria For High Quality-Leads:
 
 
 **Running the Project**
+<script src="https://asciinema.org/a/291902.js" id="asciicast-291902" async></script>
 <a href="https://asciinema.org/a/291902?autoplay=1"><img src="https://asciinema.org/a/291902.png" width="836"/></a>
