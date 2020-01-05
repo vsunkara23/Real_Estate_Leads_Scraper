@@ -21,3 +21,5 @@ Required Information Criteria For High Quality-Leads:
 
 **Running the Project**
 <a href="https://asciinema.org/a/291902?autoplay=1"><img src="https://asciinema.org/a/291902.png" width="836"/></a>
+
+![Leads_Data.xls](./Leads_Data.xls) 
