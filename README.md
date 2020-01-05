@@ -8,7 +8,7 @@
 **Problem:** 
 1) Time wasted on manually searching and filling details of leads in excel sheet.
 2) Some leads don't have enough details such as contact information like phone number and website.
-3) Lack of information slows down business.
+3) Lack of proper leads information slows down business.
 4) Money wasted on time-consuming employee search for quality leads.
 
 **Solution:**
