@@ -1,5 +1,7 @@
 # Real_Estate_Leads_Scraper
 
+<H2>About</H2>
+
 **Goal**
 1) Finding leads or Real Estate data of ongoing projects in Indian Market. 
 
@@ -20,6 +22,7 @@ Required Information Criteria For High Quality-Leads:
 4) Phone Number
 5) Website 
 
+Project
 
 **Running the Project**
 <a href="https://asciinema.org/a/291902?autoplay=1"><img src="https://asciinema.org/a/291902.png" width="836"/></a>
