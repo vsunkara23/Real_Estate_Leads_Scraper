@@ -14,6 +14,7 @@
 **Solution:**
 1) Web scraper to automate process of finding leads and filling details into excel sheet programmatically.
 2) Filtering results from scraping for high quality leads only that satisfy all required information criteria in excel sheet.
+3) Thousands of leads within minutes.
 
 Required Information Criteria For High Quality-Leads:
 1) Project Name
