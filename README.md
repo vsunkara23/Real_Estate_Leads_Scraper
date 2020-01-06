@@ -2,7 +2,6 @@ Real_Estate_Leads_Scraper
 =======
 
 - [Overview](#Overview)
-
 - [Setup](#Setup)
     - [Prerequisites](#Prerequisites)
     - [Background](#Background)
