@@ -1,9 +1,19 @@
-# Real_Estate_Leads_Scraper
+Real_Estate_Leads_Scraper
+=======
 
-<H2>Overview</H2>
+- [Overview](#Overview)
+
+- [Setup](#Setup)
+    - [Prerequisites](#Prerequisites)
+    - [Background](#Background)
+    - [Running Program](#Running-Program)
+
+Overview
+------
 
 **Goal**
-1) Finding leads or Real Estate data of ongoing projects in Indian Market. 
+
+Finding high-quality leads or Real Estate data of ongoing projects in Indian Market for Greenway Building Materials India Pvt. Ltd. 
 
 **Problem:** 
 1) Time wasted on manually searching and filling details of leads in excel sheet.
@@ -23,9 +33,14 @@ Required Information Criteria For High Quality-Leads:
 4) Phone Number
 5) Website 
 
-<H2>PROJECT</H2>
 
-**Running the Project**
+Setup
+------
+
+### Prerequisites
+
+
 <a href="https://asciinema.org/a/291902?autoplay=1"><img src="https://asciinema.org/a/291902.png" width="836"/></a>
 
 ![](images/output_img.png?raw=true)
+
