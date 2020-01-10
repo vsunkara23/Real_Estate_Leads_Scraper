@@ -6,13 +6,14 @@ Real_Estate_Leads_Scraper
     - [Prerequisites](#Prerequisites)
     - [Background](#Background)
     - [Running Program](#Running-Program)
+- [Output] (#Output)
 
 Overview
 ------
 
 ### Goal:
 
-Finding high-quality leads or Real Estate data of ongoing projects in Indian Market for Greenway Building Materials India Pvt. Ltd. 
+Developing a core web scraping application to find high-quality leads or Real Estate data of ongoing projects in Indian Market for Greenway Building Materials India Pvt. Ltd., a building materials company. 
 
 ### Problem: 
 1) Time wasted on manually searching and filling details of leads in excel sheet.
@@ -24,6 +25,9 @@ Finding high-quality leads or Real Estate data of ongoing projects in Indian Mar
 1) Web scraper to automate process of finding leads and filling details into excel sheet programmatically.
 2) Filtering results from scraping for high quality leads only that satisfy all required information criteria in excel sheet.
 3) Thousands of leads within minutes.
+
+### Program Specifics:
+
 
 
 ___Required Information Criteria For High Quality-Leads:___
@@ -39,8 +43,23 @@ Setup
 
 ### Prerequisites
 
+Python 3       
+Beautiful Soup      (pip install beautifulsoup4)
+Requests Library    (pip install requests)
+
+### Background
+
+This program is run on terminal. 
+The user keeps querying the program for more ongoing construction projects leads from different cities until they input "No" and user finishes querying.
+Once user is done querying, program outputs an excel sheet consisting of a list of ongoing construction projects with details.
+Below is a demonstration of how to program.
+
+### Running Program
 
 <a href="https://asciinema.org/a/291902?autoplay=1"><img src="https://asciinema.org/a/291902.png" width="836"/></a>
+
+Output
+------
 
 ![](images/output_img.png?raw=true)
 
