@@ -6,7 +6,7 @@ Real_Estate_Leads_Scraper
     - [Prerequisites](#Prerequisites)
     - [Background](#Background)
     - [Running Program](#Running-Program)
-- [Output] (#Output)
+- [Output](#Output)
 
 Overview
 ------
