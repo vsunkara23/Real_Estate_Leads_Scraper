@@ -45,7 +45,6 @@ Setup
 
 Python 3       
 Beautiful Soup      (pip install beautifulsoup4)
-
 Requests Library    (pip install requests)
 
 ### Background
