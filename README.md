@@ -62,6 +62,7 @@ Below is a demonstration of how to program.
 
 Output
 ------
+Generated output from running program.
 
 ![](images/output_img.png?raw=true)
 
