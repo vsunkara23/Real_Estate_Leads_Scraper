@@ -29,11 +29,11 @@ Developing a core web scraping application to find high-quality leads or Real Es
 ### Program Specifics:
 1) User defines city on the terminal. All possible matches of ongoing construction projects are scraped from the following website: https://www.commonfloor.com/project-search?city=(user-defined-string).
 
-2) Filtered by only matches with information such as company name and address.
+2) Filtered by only matches that had complete information such as company name and address.
 
-2) Utilized Google Places API to get additional leads information such as company website and phone number.
+2) Queried Google Places API and parsed returned JSON to get additional leads information such as company website and phone number.
 
-3) Wrote leads data collected from website and API to CSV file.
+3) Wrote leads data collected from website and Google Places API to CSV file.
 
 
 ___Required Information Criteria For High Quality-Leads:___
@@ -58,9 +58,9 @@ Requests Library    (pip install requests)
 ### Background
 
 This program is run on terminal. 
-The user keeps querying the program for more ongoing construction projects leads from different cities until they input "No" and user finishes querying.
-Once user is done querying, program outputs an excel sheet consisting of a list of ongoing construction projects with details.
-Below is a demonstration of how to program.
+The user keeps querying the program for more ongoing construction projects leads from their desired cities until they input "No" and user finishes querying.
+Once user is done querying, program outputs an excel sheet consisting of a list of scraped ongoing construction projects with details.
+Below is a demonstration of how the program is run on terminal.
 
 ### Running Program
 
