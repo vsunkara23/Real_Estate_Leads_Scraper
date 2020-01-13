@@ -27,7 +27,9 @@ Developing a core web scraping application to find high-quality leads or Real Es
 3) Thousands of leads within minutes.
 
 ### Program Specifics:
+1) For a user-define city on the terminal, scraped construction project name and company name from this url https://www.commonfloor.com/project-search?city= 
 
+2) Developed application with Google Places API to get contact information 
 
 
 ___Required Information Criteria For High Quality-Leads:___
