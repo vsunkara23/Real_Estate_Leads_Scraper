@@ -13,7 +13,7 @@ Overview
 
 ### Goal:
 
-Developing a core web scraping application to find high-quality leads or Real Estate data of ongoing projects in Indian Market for Greenway Building Materials India Pvt. Ltd., a building materials company. 
+Developing a core web scraping application to find high-quality leads or Real Estate data of ongoing construction projects in Indian Market for Greenway Building Materials India Pvt. Ltd., a building materials company. 
 
 ### Problem: 
 1) Time wasted on manually searching and filling details of leads in excel sheet.
