@@ -64,7 +64,7 @@ Below is a demonstration of how the program is run on terminal.
 
 ### Running Program
 
-![](https://drive.google.com/uc?export=view&id=1EHvNf4dd2-uVrOHggmzPo-0Kx91FDUuA)
+![](https://drive.google.com/file/d/1EHvNf4dd2-uVrOHggmzPo-0Kx91FDUuA/view)
 
 Output
 ------
