@@ -19,7 +19,7 @@ Developing a core web scraping application to find high-quality leads or Real Es
 1) Time wasted on manually searching and filling details of leads in excel sheet.
 2) Some leads don't have enough details such as contact information like phone number and website.
 3) Lack of proper information about leads slows down business.
-4) Money wasted on time-consuming employee search for quality leads.
+4) Money wasted by the hour on time-consuming employee search for quality leads.
 
 ### Solution:
 1) Web scraper to automate process of finding leads and filling details into excel sheet programmatically.
