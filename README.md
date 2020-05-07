@@ -29,7 +29,7 @@ Developing a core web scraping application to find high-quality leads or Real Es
 ### Program Specifics:
 1) User defines city on the terminal. All possible matches of ongoing construction projects are scraped from the following website: https://www.commonfloor.com/project-search?city=(user-defined-string).
 
-2) Filtered by only matches that had complete information such as company name and address.
+2) Filtered by only matches that have complete information such as company name and address.
 
 2) Queried Google Places API and parsed returned JSON to get additional leads information such as company website and phone number.
 
