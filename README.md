@@ -62,7 +62,7 @@ The user keeps querying the program for more ongoing construction projects leads
 Once user is done querying, program outputs an excel sheet consisting of a list of scraped ongoing construction projects with details.
 Below is a demonstration of how the program is run on terminal.
 
-### Running Program
+### Program Demo
 
 <a href="https://drive.google.com/file/d/1EHvNf4dd2-uVrOHggmzPo-0Kx91FDUuA/view"><img src="https://asciinema.org/a/291902.png" width="836"/></a>
 
