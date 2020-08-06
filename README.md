@@ -5,7 +5,7 @@ Real_Estate_Leads_Scraper
 - [Setup](#Setup)
     - [Prerequisites](#Prerequisites)
     - [Background](#Background)
-    - [Running Program And Project Demo](#Running-Program And Project-Demo)
+    - [Running Program And Project Demo](#Running-Program-And-Project-Demo)
 - [Output](#Output)
 
 Overview
