@@ -22,7 +22,7 @@ data_sheet.write(0, 5, "Website", style = xlwt.easyxf('font: bold 1; border: top
 def place_details_API(str):
 	endpoint_url = "https://maps.googleapis.com/maps/api/place/details/json?"
 	info_string = str
-	api_key = "AIzaSyCmuWLioF6QyWK86OGyOr63_n5yVRNmGKA"
+	api_key = "PUT-API-KEY-HERE"
 	params = {
 		'place_id': info_string,
 		'key': api_key,
@@ -52,7 +52,7 @@ def place_search_API(str):
 	str = str + " india"
 	endpoint_url = "https://maps.googleapis.com/maps/api/place/findplacefromtext/json?"
 	info_string = urllib.parse.quote_plus(str)
-	api_key = "AIzaSyCmuWLioF6QyWK86OGyOr63_n5yVRNmGKA"
+	api_key = "PUT-API-KEY-HERE"
 	params = {
 		'input': info_string,
 		'inputtype': "textquery",
