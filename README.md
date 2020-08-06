@@ -14,7 +14,7 @@ Overview
 
 ### Goal:
 
-Developing a core web scraping application to find high-quality leads or Real Estate data of ongoing construction projects in Indian Market for Greenway Building Materials India Pvt. Ltd., a building materials company. 
+Developed a web scraping solution for Greenway Building Materials India Pvt. Ltd. to automate process of finding 1000+ high-quality leads pertaining to ongoing construction projects in the Indian Market. 
 
 ### Problem: 
 1) Time wasted on manually searching and filling details of leads in excel sheet.
@@ -65,9 +65,9 @@ Below is a demonstration of how the program is run on terminal.
 
 ### Running Program
 
-1) Change Directory to the project directory
+1) Change directory to the project directory.
 
-2) Run the command "python scraper.py" in the terminal window
+2) Run the command "python scraper.py" in the terminal window.
 
 Project Demo
 ------
