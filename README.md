@@ -5,7 +5,8 @@ Real_Estate_Leads_Scraper
 - [Setup](#Setup)
     - [Prerequisites](#Prerequisites)
     - [Background](#Background)
-    - [Running Program And Project Demo](#Running-Program-And-Project-Demo)
+    - [Running Program](#Running-Program)
+- [Project Demo](#Project-Demo)
 - [Output](#Output)
 
 Overview
@@ -62,7 +63,14 @@ The user keeps querying the program for more ongoing construction projects leads
 Once user is done querying, program outputs an excel sheet consisting of a list of scraped ongoing construction projects with details.
 Below is a demonstration of how the program is run on terminal.
 
-### Running Program And Project Demo
+### Running Program
+
+1) Change Directory to the project directory
+
+2) Run the command "python scraper.py" in the terminal window
+
+Project Demo
+------
 
 <a href="https://drive.google.com/file/d/1EHvNf4dd2-uVrOHggmzPo-0Kx91FDUuA/view"><img src="https://asciinema.org/a/291902.png" width="836"/></a>
 
