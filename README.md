@@ -50,11 +50,15 @@ Setup
 
 ### Prerequisites
 
-Python 3       
+Python 3                         (https://www.python.org/downloads/)
 
-beautifulsoup4      (pip install beautifulsoup4)
+beautifulsoup4                   (pip install beautifulsoup4)
 
-requests            (pip install requests)
+requests                         (pip install requests)
+ 
+xlwt                             (pip install xlwt)
+
+Register for Google Maps API Key (https://developers.google.com/maps/documentation/javascript/get-api-key)
 
 ### Background
 
