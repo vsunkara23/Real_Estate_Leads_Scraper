@@ -76,7 +76,7 @@ Below is a demonstration of how the program is run on terminal.
 Project Demo
 ------
 
-<a href="https://drive.google.com/file/d/1EHvNf4dd2-uVrOHggmzPo-0Kx91FDUuA/view"><img src="https://asciinema.org/a/291902.png" width="836"/></a>
+<a href="https://drive.google.com/file/d/1EHvNf4dd2-uVrOHggmzPo-0Kx91FDUuA/view"><img src="https://asciinema.org/a/291902.png" width="550"/></a>
 
 Output
 ------
