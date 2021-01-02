@@ -80,7 +80,7 @@ Project Demo
 
 Output
 ------
-Generated output from running program.
+Generated excel sheet with leads information.
 
 ![](images/output_img.png?raw=true)
 
